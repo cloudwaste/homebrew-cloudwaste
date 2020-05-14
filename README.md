@@ -1,4 +1,5 @@
-# Cloudwaste Cloudwaste
+[![Actions Panel](https://img.shields.io/badge/actionspanel-enabled-brightgreen)](https://www.actionspanel.app/app/cloudwaste/homebrew-cloudwaste)
+# Cloudwaste brew formula
 
 ## How do I install these formulae?
 `brew install cloudwaste/cloudwaste/cloudwaste`

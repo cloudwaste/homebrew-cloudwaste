@@ -1,0 +1,4 @@
+buttons:
+  - title: Update brew formula
+    action: "update"
+    description: Update brew formula
